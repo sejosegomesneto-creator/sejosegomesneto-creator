@@ -1,16 +1,32 @@
-## Hi there 👋
+# José Barbosa Gomes Neto
 
-<!--
-**sejosegomesneto-creator/sejosegomesneto-creator** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Cybersecurity student focused on Security Operations Center (SOC), Threat Detection and Incident Response.
 
-Here are some ideas to get you started:
+Currently studying Cyber Defense and developing practical projects focused on Blue Team operations, SIEM correlation and log analysis.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Areas of Interest
+
+- Security Operations Center (SOC)
+- Threat Detection
+- Incident Response
+- Threat Hunting
+- SIEM and Log Analysis
+- Blue Team Operations
+
+## Technologies
+
+Python • Linux • Security Monitoring • Log Analysis • Threat Detection
+
+## Featured Projects
+
+- SOC Mini SIEM Correlation Engine
+- SOC Home Lab Log Analyzer
+- Incident Analysis with Python and SQL
+- IOC Hunting Lab
+
+## Currently Learning
+
+- EDR / XDR Concepts
+- Security Investigation
+- SOC Operations
+- Threat Detection Techniques
